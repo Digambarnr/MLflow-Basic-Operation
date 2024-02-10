@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLflow%20test/mlruns/0/0600a4d82b4c4944a41b6548da2fef05/artifacts
+end_time: 1707539115612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0600a4d82b4c4944a41b6548da2fef05
+run_name: indecisive-shark-930
+run_uuid: 0600a4d82b4c4944a41b6548da2fef05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707539109906
+status: 3
+tags: []
+user_id: DELL
